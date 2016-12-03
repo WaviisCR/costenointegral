@@ -1,0 +1,94 @@
+Body{
+    background-color:#fff;
+    color:#1f4b8a;
+}
+p{
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.content-section {
+    padding-top: 10%;
+}
+.w-80{
+ width:80%;
+}
+
+.intro{
+    background-image: url(../img/integral.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.intro-body{
+    background-color: rgba(62, 60, 60, 0.5);
+}
+
+.navbar-custom.top-nav-collapse {
+    padding: 0;
+    background: #1f4b8a;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+}
+
+.download-section {
+    width: 100%;
+    padding: 0px;
+    color: #fff;
+    background: url(../img/arroz.png);
+    background-position:top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.opacity{
+     width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background-color: rgba(104, 58, 39, 0.78);
+}
+.icons{
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.fa{
+    color:#f5d12f;
+}
+.bold{
+    font-size:1.5em;
+}
+.custom{
+    width:8em;
+    margin:1%;
+    padding:1%;
+}
+.mt-30{
+    margin-top:30%;
+}
+.mt-25{
+    margin-top:25%;
+}
+.mt-14{
+    margin-top:14%;
+}
+.anar-box{
+    background-color:rgba(203, 203, 203, 0.39);
+}
+.w-40{
+    width: 40%;
+}
+.w-50{
+    width: 50%;
+}
+footer{
+    background-color: rgba(98, 129, 173, 0.09);
+    border-top:rgba(98, 129, 173, 0.75) solid 2px;
+}
+footer{
+    margin-top: 1.5%;
+    padding-top: 1.5%;
+    padding-bottom:1%;
+}
+footer i{
+    margin:2%;
+    padding:1%;
+    color:#1F4B8A!important;
+}
